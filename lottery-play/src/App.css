@@ -1,0 +1,76 @@
+.box{
+  width: 4rem;
+  height: 4rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.mainCard{
+width: 25rem;
+height: 25rem;
+background-color: pink;
+border: 1px solid black;
+margin: 1rem;
+box-sizing: border-box;
+padding: 1rem 2rem;
+border-radius: 1rem;
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+column-gap: 4rem;
+}
+
+.mywidht{
+  width: 100%;
+}
+
+#gameModeDiv{
+  width: 100%;
+  height: 3rem;
+  border : 1px solid black;
+  border-radius: 1rem;
+  padding: 0rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.adjust-height{
+  height: 3rem;
+}
+
+.myflex{
+  display: flex;
+  height: 3.3rem;
+  column-gap: 0.5rem;
+}
+
+.randomBox{
+  border: 1px solid black;
+  border-radius: 1rem;
+  padding: 0rem 0.1rem;
+  background-color: white;
+  width: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 1.5rem;
+}
+
+.gameStatus{
+  width: 25rem;
+  height: 3rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin: 0.5rem 1.2rem;
+}
